@@ -1,11 +1,11 @@
-# Assessment-2
-Save Data to the Database.
-![Save Form](/msd/src/main/resources/drawable/Save.png)
-Update Data by Phone number.
-![Update Form](/msd/src/main/resources/drawable/Update.png)
-Search Data.
-![Search Form](/msd/src/main/resources/drawable/Search.png)
-We can search data by Name and also if we click directly without entering any name then it will fetch all records from database.
-![Search All Data](/msd/src/main/resources/drawable/Search%20Result.png)
-Delete Data by using phone number.
-![Delete Form](/msd/src/main/resources/drawable/Delete.png)
+# Assessment-2<br />
+Save Data to the Database.<br />
+![Save Form](/msd/src/main/resources/drawable/Save.png)<br />
+Update Data by Phone number.<br />
+![Update Form](/msd/src/main/resources/drawable/Update.png)<br />
+Search Data.<br />
+![Search Form](/msd/src/main/resources/drawable/Search.png)<br />
+We can search data by Name and also if we click directly without entering any name then it will fetch all records from database.<br />
+![Search All Data](/msd/src/main/resources/drawable/Search%20Result.png)<br />
+Delete Data by using phone number.<br />
+![Delete Form](/msd/src/main/resources/drawable/Delete.png)<br />
